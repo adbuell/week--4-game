@@ -53,7 +53,8 @@ $('#green').click(function(){
      yellow = Math.floor((Math.random() * 12) + 1);
      randomNumber = Math.floor(Math.random() * 102) + 19;
      yourNumber = 0;
-
+     $("#yournumber").html(yourNumber)
+     document.getElementById("randomnumber").innerHTML = randomNumber;
  }
 
    function check() {

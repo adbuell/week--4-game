@@ -1,0 +1,45 @@
+#container {
+  color: #darkblue;
+  background-color: white;
+  font-family: Nunito;
+  text-align: center;
+  margin: 20px;
+}
+body {
+  background-color: darkblue;
+}
+
+#whole {
+  background-color: turquoise;
+  height: 300px;
+  width: 200px;
+  padding: 20px;
+  margin: 20px;
+  font-family: Nunito;
+  font-weight: bold;
+  color: darkblue;
+}
+
+#crystals {
+  height: 110px;
+  width: 320px;
+  background-color: turquoise;
+  margin: 20px;
+  padding: 10px;
+}
+#green {
+  margin: 10px;
+  float: left;
+}
+#red {
+  margin: 10px;
+  float: left;
+}
+#blue {
+  margin: 10px;
+  float: left;
+}
+#yellow {
+  margin: 10px;
+  float: left;
+}
